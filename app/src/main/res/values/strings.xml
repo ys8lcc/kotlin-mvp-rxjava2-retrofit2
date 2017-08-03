@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Take Home</string>
+    <string name="action_settings">Settings</string>
+
+    <!--ALL-->
+    <string name="all_okay">Okay</string>
+    <string name="all_retry">Retry</string>
+
+    <!--MAIN-->
+    <string name="main_search_hint">Search Github users</string>
+
+    <!--ERROR-->
+    <string name="error_not_found">Oops, we could not find what you were looking for</string>
+    <string name="error_server">Oops, something went wrong</string>
+    <string name="error_network">Please check your network connection</string>
+    <string name="error_limit">You can only send ten requests per minute</string>
+
+
+</resources>
